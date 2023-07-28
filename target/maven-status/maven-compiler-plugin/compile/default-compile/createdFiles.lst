@@ -1,0 +1,5 @@
+com\mycompany\herenciastipospagos\PagoTransferencia.class
+com\mycompany\herenciastipospagos\PagoEfectivo.class
+com\mycompany\herenciastipospagos\PagoTarjeta.class
+com\mycompany\herenciastipospagos\HerenciasTiposPagos.class
+com\mycompany\herenciastipospagos\Pago.class
